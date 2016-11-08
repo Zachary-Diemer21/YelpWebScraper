@@ -1,6 +1,6 @@
 # YelpWebScraper
 
-* :rocket Here is what you need to do to utilize this particular webscraper!
+* :rocket: Here is what you need to do to utilize this particular webscraper!
 	1. Firstly, download the YelpWebScraper.py script, and the txt file with all of the zipcodes within the US. These two scripts will allow you to start collecting data. The python script is the main script. 
 	2. Edit it accordingly (ie by providing it with a designated search term, path to the zipcode txt file, etc.), and then send it into action by copy and pasting it into a python command prompt. 
 	3. Edit the location that you wish to save such files. 
