@@ -10,3 +10,4 @@
 * I split up the US zipcodes as follows: 10000, 20000, 30000, etc. and then ran the code accordingly. 
 * There is a tremendous amount of duplicate data due to the overlapping zipcodes. Therefore, I utilized an R script to clean the data which can be found in this repository. 
 * There are additional files, including a particular batch script, within this repository that I utilized to configure PostGIS, PostGreSQL, and the Tiger Geocoder (this in particular was an absolute __NIGHTMARE__ to configure and lacks appropriate documentation). 
+* If you wish, the Ipython notebook has a short description of the capablities, and pitfalls of this particular webscraper. Feel free to take a look. :eyes: Interestingly enough Github renders such notebooks.  
